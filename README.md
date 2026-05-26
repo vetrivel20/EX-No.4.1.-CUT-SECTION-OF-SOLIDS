@@ -42,7 +42,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 ![alt text](<Screenshot 2026-05-26 103058.png>)
-![alt text](<Screenshot 2026-05-26 103005.png>)
+![alt text](image.png)
 
 ## RESULT:
 
